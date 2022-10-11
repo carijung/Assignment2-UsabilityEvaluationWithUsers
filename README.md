@@ -7,7 +7,7 @@ For the purpose of this usability testing, we have used the [UN Environment Prog
 <p>&nbsp;</p>
 
 ## Purpose of Usability Testing
-Usability testing allows us to gain an understanding of the interaction between users and products, which is significant to developing a product. Therefore, the goal for this usability testing was to test the difficulty, efficiency, and satisfaction of the [UN Environment Programme](https://www.unep.org/) website. Because this website is rich in resources, it is possible for users to feel overwhelmed when scouring through and there is a chance that they might even miss several informations. This should not be the case as there is a variety of users who may want to gain more insight about our environment and potentially help make a change. Therefore, the goal was to see how users obtained specific information when instructed to do so. 
+Usability testing allows us to gain an understanding of the interaction between users and products, which is significant to developing a product. Therefore, the goal of this usability testing was to test the difficulty, efficiency, and satisfaction of the [UN Environment Programme](https://www.unep.org/) website. Because this website is rich in resources, users may potentially feel overwhelmed when scouring through and there is a chance that they might even miss several information. This should not be the case as there is a variety of users who may want to gain more insight about our environment and potentially help make a change. Therefore, the goal was to see how the user obtained specific information when instructed to do so. 
 
 <p>&nbsp;</p>
 
