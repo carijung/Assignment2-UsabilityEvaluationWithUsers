@@ -1,6 +1,12 @@
 # Assignment 2: Usability Testing with Users
 Cari Jung • DH110 • Fall 2022
 
+## Purpose of Usability Testing
+
+<p>&nbsp;</p>
+
+## The Process and Materials 
+
 <p>&nbsp;</p>
 
 ## Evidence of User Testing
@@ -9,3 +15,4 @@ Cari Jung • DH110 • Fall 2022
 
 <p>&nbsp;</p>
 
+## Findings and Reflection
