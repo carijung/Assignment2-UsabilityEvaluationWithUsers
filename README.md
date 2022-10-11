@@ -1,4 +1,4 @@
-# DH 110- Usability Testing with Users
+# Assignment 2: Usability Testing with Users
 Cari Jung • DH110 • Fall 2022
 
 <p>&nbsp;</p>
