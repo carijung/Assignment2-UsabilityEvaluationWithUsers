@@ -25,3 +25,4 @@ As the moderator, I was responsible for guiding the user through each part of th
 <p>&nbsp;</p>
 
 ## Findings and Reflection
+This usability testing allowed me to understand that while the UNEP website has a lot of resources, it isn't complex to utilize than expected. Additionally, although the user did find difficulty in accomplishing the first task, they were able to accomplish the two others well. This informed me that I should try to restructure the tasks and scenarios or come up with new ones that can test different features. I felt that this was a good rehearsal for the real usability testing as I kept my confidence and positivity. However, next time I would have a timer so that I have an idea of how fast/slow we are completing this task.
